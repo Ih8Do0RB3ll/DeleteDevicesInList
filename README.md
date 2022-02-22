@@ -18,7 +18,7 @@ so I had something to work with, cuz "urn:uuid:cfe92100-67c4-11d4-a45f-" is simi
 
 Next we need to get file with all of the interface IDs we want to delete: 
 
-pnputil /enum-interfaces | findstr "common part of device IDs" > "%homepath%\Desktop\filename.txt"
+pnputil /enum-interfaces | findstr "insert common part of device IDs here" > "%homepath%\Desktop\filename.txt"
 
 edit output file so you only have IDs there
 
