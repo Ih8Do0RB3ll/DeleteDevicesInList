@@ -13,8 +13,11 @@ get ids of devices you want to delete
 I had similiar scanners and their ids looked like 
 
 SWD\DAFWSDProvider\urn:uuid:cfe92100-67c4-11d4-a45f-9caed3b038b3
+
 SWD\DAFWSDProvider\urn:uuid:cfe92100-67c4-11d4-a45f-9caed3b038c3
+
 SWD\DAFWSDProvider\urn:uuid:cfe92100-67c4-11d4-a45f-9caed3b038c5
+
 SWD\DAFWSDProvider\urn:uuid:cfe92100-67c4-11d4-a45f-9caed3b038c6
 
 so I had something to work with, cuz "urn:uuid:cfe92100-67c4-11d4-a45f-" is similiar for all of them
